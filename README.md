@@ -2,7 +2,7 @@
 
 This repository provides a few scripts that might make the exercism mentor experience a little smoother.
 
-<img alt="satisfying" style="max-width: 100px" src="https://i.imgflip.com/2pfnon.jpg">
+<img alt="satisfying" width="200px" src="https://i.imgflip.com/2pfnon.jpg">
 
 
 ## Do go on....
