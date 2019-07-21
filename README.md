@@ -46,7 +46,7 @@ NOTE: Currently only the JavaScript track is supported
 ## WARNING: Windows
 * Not tested on Windows yet
 *  At the very least, you want to make sure, you have CYGWIN (or some other minimal POSIX environment) installed
-*  (HINT: I usually get it by installing git; when using the MSI installer, you can even choose to add Linux tools to your default command line)
+   * (HINT: I usually get it by installing git; when using the MSI installer, you can even choose to add Linux tools to your default command line)
 
 # Troubleshooting
 
