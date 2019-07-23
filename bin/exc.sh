@@ -22,6 +22,10 @@ fi
 
 # get the current directory (NOTE: different from cwd)
 SCRIPT_DIR=$(dirname $BASH_SOURCE)
+if [ $SCRIPT_DIR = '.' ]
+then
+  SCRIPT_DIR=`pwd`
+fi
 
 # export NODE_PATH environment variable, so our scripts can find all necessary modules
 export NODE_PATH=$SCRIPT_DIR/../node_modules
